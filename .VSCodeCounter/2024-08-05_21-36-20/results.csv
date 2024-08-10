@@ -1,0 +1,24 @@
+"filename", "language", "JavaScript JSX", "JavaScript", "PostCSS", "SVG", "Markdown", "JSON", "HTML", "comment", "blank", "total"
+"d:\Web\tiara-andi-wedding-invitation\.eslintrc.cjs", "JavaScript", 0, 21, 0, 0, 0, 0, 0, 0, 1, 22
+"d:\Web\tiara-andi-wedding-invitation\README.md", "Markdown", 0, 0, 0, 0, 8, 0, 0, 0, 3, 11
+"d:\Web\tiara-andi-wedding-invitation\index.html", "HTML", 0, 0, 0, 0, 0, 0, 13, 0, 3, 16
+"d:\Web\tiara-andi-wedding-invitation\package-lock.json", "JSON", 0, 0, 0, 0, 0, 14236, 0, 0, 1, 14237
+"d:\Web\tiara-andi-wedding-invitation\package.json", "JSON", 0, 0, 0, 0, 0, 32, 0, 0, 1, 33
+"d:\Web\tiara-andi-wedding-invitation\postcss.config.js", "JavaScript", 0, 6, 0, 0, 0, 0, 0, 0, 1, 7
+"d:\Web\tiara-andi-wedding-invitation\src\App.jsx", "JavaScript JSX", 33, 0, 0, 0, 0, 0, 0, 0, 5, 38
+"d:\Web\tiara-andi-wedding-invitation\src\assets\bismillah.svg", "SVG", 0, 0, 0, 1041, 0, 0, 0, 1, 1, 1043
+"d:\Web\tiara-andi-wedding-invitation\src\assets\couple.svg", "SVG", 0, 0, 0, 3, 0, 0, 0, 0, 1, 4
+"d:\Web\tiara-andi-wedding-invitation\src\assets\love.svg", "SVG", 0, 0, 0, 3, 0, 0, 0, 0, 1, 4
+"d:\Web\tiara-andi-wedding-invitation\src\components\AyatSuci.jsx", "JavaScript JSX", 37, 0, 0, 0, 0, 0, 0, 0, 4, 41
+"d:\Web\tiara-andi-wedding-invitation\src\components\Backsound.jsx", "JavaScript JSX", 37, 0, 0, 0, 0, 0, 0, 0, 9, 46
+"d:\Web\tiara-andi-wedding-invitation\src\components\Detail.jsx", "JavaScript JSX", 143, 0, 0, 0, 0, 0, 0, 2, 6, 151
+"d:\Web\tiara-andi-wedding-invitation\src\components\Footer.jsx", "JavaScript JSX", 49, 0, 0, 0, 0, 0, 0, 1, 5, 55
+"d:\Web\tiara-andi-wedding-invitation\src\components\Hero.jsx", "JavaScript JSX", 71, 0, 0, 0, 0, 0, 0, 0, 4, 75
+"d:\Web\tiara-andi-wedding-invitation\src\components\Mempelai.jsx", "JavaScript JSX", 83, 0, 0, 0, 0, 0, 0, 2, 6, 91
+"d:\Web\tiara-andi-wedding-invitation\src\components\Timer.jsx", "JavaScript JSX", 54, 0, 0, 0, 0, 0, 0, 0, 11, 65
+"d:\Web\tiara-andi-wedding-invitation\src\index.css", "PostCSS", 0, 0, 11, 0, 0, 0, 0, 0, 5, 16
+"d:\Web\tiara-andi-wedding-invitation\src\main.jsx", "JavaScript JSX", 9, 0, 0, 0, 0, 0, 0, 0, 2, 11
+"d:\Web\tiara-andi-wedding-invitation\src\pages\Inviting.jsx", "JavaScript JSX", 105, 0, 0, 0, 0, 0, 0, 0, 6, 111
+"d:\Web\tiara-andi-wedding-invitation\tailwind.config.js", "JavaScript", 0, 41, 0, 0, 0, 0, 0, 1, 6, 48
+"d:\Web\tiara-andi-wedding-invitation\vite.config.js", "JavaScript", 0, 5, 0, 0, 0, 0, 0, 1, 2, 8
+"Total", "-", 621, 73, 11, 1047, 8, 14268, 13, 8, 84, 16133
