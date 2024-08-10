@@ -32,10 +32,10 @@ export default {
       },
 
       backgroundImage: {
-        inviting: "url(inviting.png)",
-        invitingPotrait: "url(inviting-potrait.jpg)",
-        hero: "url(hero.png)",
-        heroPotrait: "url(hero-potrait.jpg)",
+        inviting: "url(./inviting.png)",
+        invitingPotrait: "url(./inviting-potrait.jpg)",
+        hero: "url(./hero.png)",
+        heroPotrait: "url(./hero-potrait.jpg)",
       },
 
       screens: {
