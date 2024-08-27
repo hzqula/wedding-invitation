@@ -38,10 +38,10 @@ const Hero = ({ guest }) => {
             <div className="flex flex-col items-center content-center justify-center gap-4 mb-6 md:flex-row md:gap-8">
               <div className="flex flex-col items-center justify-center">
                 <h2 className="mb-2 text-6xl text-center text-white md:mb-4 md:text-6xl lg:text-8xl font-romance">
-                  Tiara & Andi
+                  Fulanah & Fulan
                 </h2>
                 <h3 className="text-base font-semibold text-center text-white md:text-lg font-body">
-                  ~ Sabtu, 10 Agustus 2024 ~
+                  ~ Rabu, 01 Januari 2025 ~
                 </h3>
                 <Timer />
               </div>

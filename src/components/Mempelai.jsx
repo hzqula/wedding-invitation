@@ -3,8 +3,8 @@ import divBottom from "../assets/divider-bottom.png";
 import divTop from "../assets/divider-top.png";
 import ring from "../assets/ring.png";
 import bunga from "../assets/flower.png";
-import bride from "../assets/bride.jpg";
-import groom from "../assets/groom.jpg";
+import bride from "../assets/girl.png";
+import groom from "../assets/man.png";
 
 const Mempelai = () => {
   return (
@@ -38,14 +38,15 @@ const Mempelai = () => {
             <img
               src={bride}
               alt="bride"
-              className="w-32 my-2 border-4 border-white rounded-full"
+              className="w-32 p-2 my-2 bg-blue-900 border-4 border-white rounded-full"
             />
+
             <div className="flex flex-col justify-center md:items-center">
               <h2 className="text-5xl text-left text-white font-romance">
-                Tiara Novira
+                Fulanah
               </h2>
               <h3 className="text-base text-white md:text-sm md:text-center font-body">
-                Putri dari Bapak Muhrizal dan Ibu Fauziah
+                Putri dari Bapak dan Ibu
               </h3>
             </div>
           </div>
@@ -55,16 +56,16 @@ const Mempelai = () => {
           <div className="flex items-center self-end justify-center gap-4 md:hidden">
             <div className="flex flex-col items-end justify-center">
               <h2 className="text-5xl text-right text-white font-romance">
-                Isma Wandi
+                Fulan
               </h2>
               <h3 className="text-base text-right text-white font-body">
-                Putra dari Bapak Rusli (Alm) dan Ibu Asni (Almh)
+                Putra dari Bapak dan Ibu
               </h3>
             </div>
             <img
               src={groom}
               alt="groom"
-              className="w-32 my-4 border-4 border-white rounded-full"
+              className="w-32 p-2 my-4 bg-blue-900 border-4 border-white rounded-full"
             />
           </div>
 
@@ -73,11 +74,11 @@ const Mempelai = () => {
             <img
               src={groom}
               alt="groom"
-              className="w-32 my-2 border-4 border-white rounded-full"
+              className="w-32 p-2 my-2 bg-blue-900 border-4 border-white rounded-full"
             />
-            <h2 className="text-5xl text-white font-romance">Isma Wandi</h2>
+            <h2 className="text-5xl text-white font-romance">Fulan</h2>
             <h3 className="text-base text-white md:text-sm md:text-center font-body">
-              Putra dari Bapak Rusli (Alm) dan Ibu Asni (Almh)
+              Putra dari Bapak dan Ibu
             </h3>
           </div>
         </div>

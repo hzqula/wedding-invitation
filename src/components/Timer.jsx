@@ -8,7 +8,7 @@ const Timer = () => {
   const [isEventOngoing, setIsEventOngoing] = useState(false);
 
   useEffect(() => {
-    const target = new Date("08/10/2024 7:30:00");
+    const target = new Date("01/01/2025 7:30:00");
     const twelveHoursLater = new Date(target.getTime() + 23 * 60 * 60 * 1000);
 
     const interval = setInterval(() => {

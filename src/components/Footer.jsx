@@ -38,12 +38,12 @@ const Footer = () => {
             Kami yang berbahagia
           </h1>
           <div className="flex flex-col items-center justify-center w-4/5 gap-4 mt-8 md:flex-row md:gap-8">
-            <h2 className="text-5xl text-white font-romance">Tiara Novira</h2>
+            <h2 className="text-5xl text-white font-romance">Fulanah</h2>
 
             {/* <FaHeart className="shadow-lg shadow-white" /> */}
             <img src={love} alt="love" className="w-12" />
 
-            <h2 className="text-5xl text-white font-romance">Isma Wandi</h2>
+            <h2 className="text-5xl text-white font-romance">Fulan</h2>
           </div>
         </div>
       </div>

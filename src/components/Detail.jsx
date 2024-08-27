@@ -34,13 +34,11 @@ const Detail = () => {
                 <td className="flex items-center justify-center gap-4 py-4 border-b-2 border-white">
                   <div className="flex flex-col items-center justify-center w-1/2 gap-2">
                     <BsClock size={24} />
-                    <h2 className="text-sm font-body">07:30 - Selesai</h2>
+                    <h2 className="text-sm font-body">07:30 - 11:00</h2>
                   </div>
                   <div className="flex flex-col items-center justify-center w-1/2 gap-2">
                     <BiCalendar size={26} />
-                    <h2 className="text-sm font-body">
-                      Sabtu, 10 Agustus 2024
-                    </h2>
+                    <h2 className="text-sm font-body">Rabu, 01 Januari 2025</h2>
                   </div>
                 </td>
               </tr>
@@ -76,9 +74,7 @@ const Detail = () => {
                   </div>
                   <div className="flex flex-col items-center justify-center w-1/2 gap-2">
                     <BiCalendar size={26} />
-                    <h2 className="text-sm font-body">
-                      Sabtu, 10 Agustus 2024
-                    </h2>
+                    <h2 className="text-sm font-body">Rabu, 01 Januari 2025</h2>
                   </div>
                 </td>
               </tr>
@@ -95,7 +91,7 @@ const Detail = () => {
         </div>
         <div className="flex flex-col md:flex-row items-center justify-center w-[90%] gap-12">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3988.4164331220427!2d100.97999399999999!3d1.518904!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMcKwMzEnMDguMSJOIDEwMMKwNTgnNDguMCJF!5e0!3m2!1sid!2sid!4v1722768469311!5m2!1sid!2sid"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d310.3646159603345!2d-0.18251044429501193!3d51.51474003870088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760554aafc5fc5%3A0xe1155e77002c360f!2sCleveland%20Square!5e0!3m2!1sid!2sid!4v1724762161130!5m2!1sid!2sid"
             allowFullScreen=""
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
@@ -107,11 +103,11 @@ const Detail = () => {
                 <span className="font-bold text-yellow-500 font-body">
                   Tempat:
                 </span>{" "}
-                Mempelai Wanita
+                Kediaman Mempelai Wanita
               </h1>
               <h1 className="font-body">
-                <span className="font-bold text-yellow-500">Alamat:</span> Jl.
-                Masjid Al-Istiqomah, Kepenghuluan Sintong Pusaka
+                <span className="font-bold text-yellow-500">Alamat:</span> 15
+                Cleveland Square, London W2 6DG, Inggris Raya
               </h1>
             </div>
 
@@ -129,7 +125,7 @@ const Detail = () => {
             </a>
           </div>
           <a
-            href="https://maps.app.goo.gl/EdUnwzk4UAwvNi4T8"
+            href="https://maps.app.goo.gl/SGvztBwkeRsREQww7"
             target="_blank"
             className="flex items-center justify-center w-full h-10 gap-2 pl-4 pr-8 text-xs font-bold transition-all duration-300 bg-white border-2 border-green-600 rounded-lg md:w-2/5 group md:text-base md:h-12 hover:border-white hover:bg-green-600 hover:text-white md:hidden"
           >

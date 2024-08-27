@@ -57,7 +57,7 @@ const Inviting = ({ changeInvited, guest }) => {
                   className="w-12 mb-4 md:hidden md:w-36 lg:w-44 md:mb-8"
                 />
                 <h2 className="mb-2 text-6xl text-center text-white md:mb-4 md:text-6xl lg:text-8xl font-romance">
-                  Tiara & Andi
+                  Fulanah & Fulan
                 </h2>
                 <img
                   src={bungaKanan}
@@ -66,7 +66,7 @@ const Inviting = ({ changeInvited, guest }) => {
                 />
               </div>
               <h3 className="text-base font-semibold text-center text-white md:text-lg font-body">
-                ~ Sabtu, 10 Agustus 2024 ~
+                ~ Rabu, 01 Januari 2025 ~
               </h3>
             </div>
             <img
